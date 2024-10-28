@@ -44,9 +44,9 @@ def sierpinski_carpet(n):
 Examples of generated maps for order 2,3 and 4:
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; align-items: center;">
-    <img src="/assets/img/sierpinski9.png" style="width: 100%; height: auto;">
-    <img src="/assets/img/sierpinski27.png" style="width: 100%; height: auto;">
-    <img src="/assets/img/sierpinski81.png" style="width: 100%; height: auto;">
+    <img src="/assets/img/sierpinski9.png" alt="Sierpinski Carpet with depth 9" style="width: 100%; height: auto;">
+    <img src="/assets/img/sierpinski27.png" alt="Sierpinski Carpet with depth 27" style="width: 100%; height: auto;">
+    <img src="/assets/img/sierpinski81.png" alt="Sierpinski Carpet with depth 81" style="width: 100%; height: auto;">
 </div>
 
 [^1]: Cobbe, Karl, Hesse, Chris, Hilton, Jacob, Schulman, John. "Leveraging Procedural Generation to Benchmark Reinforcement Learning." *Proceedings of the 37th International Conference on Machine Learning*, PMLR, 2020. [PDF](http://proceedings.mlr.press/v119/cobbe20a/cobbe20a.pdf).

@@ -24,7 +24,7 @@ Create one or more csv files in the same folder, where entries can have one of t
 - **5** - Ice
 
 
-<img src="/assets/img/track_example.png" height="80%" width="80%">
+<img src="/assets/img/track_example.png" alt="track_example" height="80%" width="80%">
 
 In the example bellow it is assumed that there is a */maps* folder with at least one *csv* map file:
 
